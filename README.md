@@ -19,4 +19,4 @@ Missing Steps Identified:
 
 Outcome:
 The person has been seamlessly integrated into the background scene with realistic tone and lighting.
-![Final Composite](https://raw.githubusercontent.com/pratiksha270/Image-blending/main/final_composite.png)
+![Final Composite]: https://raw.githubusercontent.com/pratiksha270/Image-blending/main/final_composite.png
